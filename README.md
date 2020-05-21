@@ -25,6 +25,7 @@
 
 ### 友情链接
 
+
 #### 学术网站链接
 - [百度学术](http://xueshu.baidu.com)
 - [微软学术](http://academic.microsoft.com/home)
@@ -36,6 +37,7 @@
 - [谷粉学术](http://gfsoso.91lb.net/sci-hub.html)
 - [SCI-HUB](http://www.sci-hub.shop)
 
+
 #### 行业相关研究院所
 - [北京理工大学](http://www.bit.edu.cn)
 - [爆炸科学与技术国家重点实验室](http://est.bit.edu.cn)
@@ -46,11 +48,9 @@
 - [航空航天学院计算动力学研究室](comdyn.hy.tsinghua.edu.cn)
 - [中国空气动力研究与发展中心](http://cardc.cn)
 
+
 #### 期刊主页链接
-
-
-
-| 期刊名                                                       | 收录类型     |      |      |
+| 期刊名                                                       | 收录类型     | 主办单位 |      |
 | ------------------------------------------------------------ | ------------ | ---- | ---- |
 | [Combustion and Flame](http://www.sciencedirect.com/journal/combustion-and-flame) | EI           |      |      |
 | [Journal of Applied Physics](https://aip.scitation.org/journal/jap) | EI           |      |      |
