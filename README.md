@@ -50,7 +50,7 @@
 
 #### 期刊主页链接
 | 期刊名                                                       | 收录类型     |
-| ------------------------------------------------------------ | ------------ |
+| :----------------------------------------------------------- | ------------ |
 | [Combustion and Flame](http://www.sciencedirect.com/journal/combustion-and-flame) | EI           |
 | [Journal of Applied Physics](https://aip.scitation.org/journal/jap) | EI           |
 | [Propellants, Explosives, Pyrotechnics](https://onlinelibrary.wiley.com/journal/15214087) | EI           |
