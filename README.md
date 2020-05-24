@@ -49,19 +49,19 @@
 
 
 #### 期刊主页链接
-| 期刊名                                                       | 收录类型     |  |      |
-| ------------------------------------------------------------ | ------------ | ---- | ---- |
-| [Combustion and Flame](http://www.sciencedirect.com/journal/combustion-and-flame) | EI           |      |      |
-| [Journal of Applied Physics](https://aip.scitation.org/journal/jap) | EI           |      |      |
-| [Propellants, Explosives, Pyrotechnics](https://onlinelibrary.wiley.com/journal/15214087) | EI           |      |      |
-| [中国航空学报(英文)](https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics/) | 领军期刊     |      |      |
-| [防务技术(英文)](https://www.journals.elsevier.com/defence-technology) | 梯队期刊     |      |      |
-| [固体火箭技术](http://pub.gthjjs.com)                        | 中文核心期刊 |      |      |
-| [兵工学报](http://www.co-journal.com/CN/volumn/current.shtml) | EI           |      |      |
-| [弹箭与制导学报](http://a.paperopen.com)                     | 中文核心期刊 |      |      |
-| [含能材料](http://www.energetic-materials.org.cn/hncl/ch/index.aspx) | EI           |      |      |
-| [爆炸与冲击](http://www.bzycj.cn)                            | EI           |      |      |
-| [宇航学报](http://www.yhxb.org.cn/CN/volumn/home.shtml)      | EI           |      |      |
+| 期刊名                                                       | 收录类型     |
+| ------------------------------------------------------------ | ------------ |
+| [Combustion and Flame](http://www.sciencedirect.com/journal/combustion-and-flame) | EI           |
+| [Journal of Applied Physics](https://aip.scitation.org/journal/jap) | EI           |
+| [Propellants, Explosives, Pyrotechnics](https://onlinelibrary.wiley.com/journal/15214087) | EI           |
+| [中国航空学报(英文)](https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics/) | 领军期刊     |
+| [防务技术(英文)](https://www.journals.elsevier.com/defence-technology) | 梯队期刊     |
+| [固体火箭技术](http://pub.gthjjs.com)                        | 中文核心期刊 |
+| [兵工学报](http://www.co-journal.com/CN/volumn/current.shtml) | EI           |
+| [弹箭与制导学报](http://a.paperopen.com)                     | 中文核心期刊 |
+| [含能材料](http://www.energetic-materials.org.cn/hncl/ch/index.aspx) | EI           |
+| [爆炸与冲击](http://www.bzycj.cn)                            | EI           |
+| [宇航学报](http://www.yhxb.org.cn/CN/volumn/home.shtml)      | EI           |
 
 
 
