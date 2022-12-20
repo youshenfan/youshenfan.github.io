@@ -1,8 +1,5 @@
 ### 个人简介
-范文琦，毕业于北京理工大学。主要研究方向为含能材料安全性、燃烧爆轰数值仿真和冲击动力学。
-
-
-
+范文琦，毕业于北京理工大学。
 
 ### Research Interests
 
@@ -13,11 +10,6 @@
 - Numerical Simulation
 
 ### Journal Publications
-
-1. 聂建新, **范文琦**, 王领等. 固体火箭发动机壳体缓释技术研究进展[J]. 固体火箭技术, 2020, 43(02):211-221. [pdf](http://pub.gthjjs.com/oa/pdfdow.aspx?Sid=20200213)
-
-
-
 
 
 ## 其他
